@@ -29,5 +29,5 @@ private:
     Inventory<Item> m_inventory;
 };
 
-#endif // PLAYER_H
+#endif
 

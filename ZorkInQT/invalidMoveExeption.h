@@ -21,4 +21,4 @@ private:
     std::string m_direction;
 };
 
-#endif // INVALIDMOVEEXCEPTION_H
+#endif

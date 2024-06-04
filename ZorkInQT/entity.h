@@ -8,4 +8,4 @@ public:
     virtual const QString getDescription() const = 0;
 };
 
-#endif // ENTITY_H
+#endif

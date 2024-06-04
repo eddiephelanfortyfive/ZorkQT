@@ -21,4 +21,4 @@ private:
     friend class MainWindow;
 };
 
-#endif // WORLDBUILDER_H
+#endif

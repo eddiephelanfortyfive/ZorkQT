@@ -20,4 +20,4 @@ private:
     QString m_description;
 };
 
-#endif // EXIT_H
+#endif

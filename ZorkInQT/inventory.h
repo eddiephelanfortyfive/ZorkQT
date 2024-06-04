@@ -26,4 +26,4 @@ public:
     }
 };
 
-#endif // INVENTORY_H
+#endif

@@ -45,4 +45,4 @@ private:
     friend class WorldBuilder;
 };
 
-#endif // MAINWINDOW_H
+#endif

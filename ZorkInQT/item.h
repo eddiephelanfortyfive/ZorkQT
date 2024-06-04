@@ -17,4 +17,4 @@ private:
     QString m_description;
 };
 
-#endif // ITEM_H
+#endif

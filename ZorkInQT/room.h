@@ -28,4 +28,4 @@ private:
     std::vector<Item*> m_items;
 };
 
-#endif // ROOM_H
+#endif
