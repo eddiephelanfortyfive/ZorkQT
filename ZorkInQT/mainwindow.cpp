@@ -235,7 +235,6 @@ void MainWindow::updateInventoryList() {
         inventoryMessage += itemDescription;
     }
 
-    // Append the inventory message to the inventory console
     ui->InventoryConsole->append(inventoryMessage);
 
     qDebug() << "Finished updating inventory list";

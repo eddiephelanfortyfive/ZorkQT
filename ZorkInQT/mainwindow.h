@@ -7,8 +7,7 @@
 class QTextEdit;
 class QPushButton;
 class QListWidget;
-class WorldBuilder; // Forward declaration
-
+class WorldBuilder;
 namespace Ui {
 class MainWindow;
 }

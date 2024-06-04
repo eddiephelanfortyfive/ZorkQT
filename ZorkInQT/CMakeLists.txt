@@ -37,6 +37,7 @@ if(${QT_VERSION_MAJOR} GREATER_EQUAL 6)
         entity.h
         inventory.h
         invalidMoveExeption.h
+        name.h
     )
 # Define target properties for Android with Qt 6 as:
 #    set_property(TARGET ZorkInQT APPEND PROPERTY QT_ANDROID_PACKAGE_SOURCE_DIR

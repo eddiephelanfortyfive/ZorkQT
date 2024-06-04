@@ -5,9 +5,9 @@
 int playerMoves = 0;
 int main(int argc, char *argv[])
 {
-     QApplication a(argc, argv);
+    QApplication a(argc, argv);
     WorldBuilder builder;
-     builder.buildWorld();
+    builder.buildWorld();
     MainWindow mainWindow(builder.getPlayer());
     mainWindow.show();
     return a.exec();
