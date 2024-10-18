@@ -1,0 +1,4 @@
+Zork is a text adventure game first released in 1977 by developers Tim Anderson, Marc Blank, Bruce Daniels, and Dave Lebling for the PDP-10 mainframe computer.
+https://en.wikipedia.org/wiki/Zork
+
+What I have created is a Zork inspired test based game but using the QT framework to replace the user typed commands that is typically used for games like Zork.
